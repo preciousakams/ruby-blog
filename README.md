@@ -1,4 +1,4 @@
-# Kamzzy Blog
+# Ruby Blog
 > A blog application with lots of funtionalities.
 
  ***
@@ -22,7 +22,7 @@
 
 👤 Onyeagoziri Precious Akams
 
-* GitHub: [@kamzzy](https://github.com/kamzzy)
+* GitHub: [@preciousakams](https://github.com/preciousakams)
 * Twitter:[@precious_akams](https://twitter.com/precious_akams)
 * LinkedIn:[Onyeagoziri Akams](https://www.linkedin.com/in/onyeagoziri-akams/)
 * AngelList:[Onyeagoziri Akams](https://angel.co/u/onyeagoziri-akams)
